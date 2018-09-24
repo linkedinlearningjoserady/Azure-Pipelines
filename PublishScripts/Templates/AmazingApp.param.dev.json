@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "AmazingAppJR"
+  },
+  "hostingPlanName": {
+    "value": "Default1"
+  },
+  "siteLocation": {
+    "value": "North Central US"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "277bec62-d97c-454c-8cd9-3d2de0a2667e"
+  },
+  "resourceGroup": {
+    "value": "Default-Web-NorthCentralUS"
+  }
+}
